@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="sv">
+	<head>
+		<meta charset="UTF-8">
+		<link href="style.css" rel="stylesheet">
+		<link href="images/favicon.png" rel="icon">
+		<title>Rymden</title>
+	</head>
+	<body id="blackhole">
+		<div class="wrapper">
+			<header>
+				<h1>Rymden</h1>
+			<nav>
+				<ul>
+					<li>
+						<a href="index.html">Hem</a>
+					</li>
+					<li>
+						<a href="rockets.html">Raketer</a>
+					</li>
+					<li>
+						<a href="galaxies.html">Galaxer</a>
+					</li>
+					<li>
+						<a class="active">Svart Hål</a>
+					</li>
+				</ul>
+
+			</nav>
+			</header>
+			<div class="lowernav">
+			<nav>
+				<ul>
+			        <li>
+			            <a href="blackhole.html">Svart hål</a>
+			        </li>
+			      <li>
+			            <a class="active">Fakta</a>
+			        </li>
+					 <li>
+			            <a href="blackhole3.html">Skapelse</a>
+			        </li>
+			    </ul>
+			</nav>
+			</div>
+				<main>
+				<section>
+				<h2> Vad vi vet om ett svart hål</h2>	
+					<p class="border">
+					Svarta hål uppstår när en gigantisk stjärna exploderar och stjärnan kollapsar till en liten svart fläck.De är omöjliga att se, men väger tillräckligt mycket för att sluka allt i sin närhet. Svarta hål är minnesmärken av döda jättestjärnor men de är också spektakulära fenomen i sig. Här kan du komma närmare en av universums största gåtor när Illustrerad Vetenskap guidar dig genom de svarta hålen.</p>
+				</section>
+				 <section>
+					 <img class="foto" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Black_hole_-_Messier_87_crop_max_res.jpg/1024px-Black_hole_-_Messier_87_crop_max_res.jpg" alt="Bild på SvartHål">
+				</section>
+				
+				</main>
+				
+				<aside class = "faktaSvartHål"> 
+					<h2 class="svartHål">Hur bildas ett svart hål?</h2>
+					<p class="border">Svarthål</p>
+				</aside>
+			
+			
+		</div>
+	</body>
+</html>
